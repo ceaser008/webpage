@@ -1,0 +1,52 @@
+body {
+  background: #1b1b1b;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  /* color: cyan; */
+}
+
+h1,
+h2,
+h3 {
+  color: darkorange;
+}
+
+img {
+  width: 300px;
+  /* height: 280px; */
+  height: auto;
+}
+
+nav {
+  font-size: 19px;
+  color: whitesmoke;
+}
+
+li {
+  list-style-type: disc;
+}
+
+.recdom {
+  list-style-type: disc;
+}
+
+ul {
+  font-size: 19px;
+  text-align: center;
+  margin: none;
+  padding: none;
+}
+
+#recommendation {
+  font-size: 19px;
+  color: white;
+}
+a {
+  color: cyan;
+  text-decoration: none;
+}
+
+a:hover {
+  /* background-color: ; */
+  color: darkorange;
+}
