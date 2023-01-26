@@ -17,6 +17,7 @@ img {
   height: auto;
 }
 
+p,
 nav {
   font-size: 19px;
   color: whitesmoke;
@@ -49,4 +50,9 @@ a {
 a:hover {
   /* background-color: ; */
   color: darkorange;
+}
+
+em,
+b {
+  color: white;
 }
