@@ -1,4 +1,4 @@
-img {
+#me {
   width: 200px;
   height: auto;
 }
@@ -37,7 +37,7 @@ body {
 }
 
 ul {
-  list-style-type: decimal;
+  list-style-type: disc;
   text-align: center;
 }
 
@@ -46,4 +46,14 @@ textarea {
   font-size: 110%;
   background: black;
   font-family: monospace;
+}
+
+/* #recommendation .recom_list { */
+/*   margin: 0 auto; */
+/*   padding: 0px; */
+/* } */
+
+img {
+  width: 300px;
+  height: auto;
 }
